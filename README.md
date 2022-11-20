@@ -7,3 +7,4 @@ TEAM LEADER: ANANTHA KUMAR.S
 TEAM MEMBER:SRIDEVI S
 TEAM MEMBER:HARSAVARTHINI S.K
 TEAM MEMBER:MANIKANDAN
+project demo link :https://inventoryangular.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html
